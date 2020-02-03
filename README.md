@@ -1,4 +1,4 @@
-# Cat-and-dog-classifier
+# Cat and dog classifier
 Image classifier trained to distinct between cats and dogs images.
 ## Dependencies
 * Jupyter notebook
