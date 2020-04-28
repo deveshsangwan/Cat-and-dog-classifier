@@ -1,0 +1,11 @@
+# Don't track content of these folders
+log/
+/.ipynd_checkpoints/
+
+# Compiled source #
+dogsvscats-0.0003-2conv-basic.model.data-00000-of-00001
+train_data.npy
+test_data.npy
+dogsvscats-0.0003-2conv-basic.model.meta
+dogsvscats-0.0003-2conv-basic.model.index
+checkpoint
