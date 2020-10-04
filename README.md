@@ -1,5 +1,8 @@
 # Cat and dog classifier
+<img src="http://mononanimalhospital.files.wordpress.com/2011/02/dog-and-cat.jpg">
+
 Image classifier trained to distinct between cats and dogs images.
+
 ## Dependencies
 * Jupyter notebook
 * Python 3.6
