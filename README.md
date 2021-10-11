@@ -13,6 +13,6 @@ Image classifier trained to distinct between cats and dogs images.
 * Numpy
 
 ## Dataset
-The Total number of images available for training is 25,000 and final testing is done on seperate 12,500 images.
+The Total number of images available for training is 25,000 and final testing is done on seperate 12,500 images. You can check the dataset from the below link. 
 
 ### [Dataset](https://www.kaggle.com/c/dogs-vs-cats)
